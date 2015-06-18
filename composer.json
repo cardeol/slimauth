@@ -1,0 +1,10 @@
+{
+    "require": {
+    	"php": ">=5.4.0",
+        "slim/slim": "2.*",
+        "slim/extras": "*",
+        "slim/middleware": "*",
+        "illuminate/database": "4.2.16",
+        "tuupola/slim-jwt-auth": "0.3.*"
+    }
+}
